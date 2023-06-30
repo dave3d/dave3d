@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, what's up? 👋
 
 <!--
 **dave3d/dave3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
